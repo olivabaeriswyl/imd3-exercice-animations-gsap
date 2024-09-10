@@ -10,13 +10,13 @@
 Cloner le repository git
 
 ```
-git clone git@github.com:eikon-frontend/starterkit.git <nom du projet>
+git@github.com:eikon-frontend/imd3-exercice-animations-gsap.git
 ```
 
 Se rendre dans le dossier du projet, puis installer les dépendances avec NPM
 
 ```
-cd <nom-du-projet>
+cd imd3-exercice-animations-gsap
 npm install
 ```
 
